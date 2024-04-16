@@ -1,1 +1,1 @@
-natsconnector.spark.NatsStreamProvider
+org.apache.spark.sql.nats.NatsSourceProvider
